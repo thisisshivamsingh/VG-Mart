@@ -1,0 +1,104 @@
+{
+    "vegetables": [
+        {
+            "id": 1,
+            "name": "Carrot",
+            "price": 1.5,
+            "unitPerPrice": 1,
+            "unit": "kg",
+            "quantity": 50,
+            "createdAt": "2023-11-20T12:00:00Z",
+            "updatedAt": "2023-11-20T12:00:00Z"
+        },
+        {
+            "id": 2,
+            "name": "Broccoli",
+            "price": 2.0,
+            "unitPerPrice": 1,
+            "unit": "unit",
+            "quantity": 30,
+            "createdAt": "2023-11-20T12:05:00Z",
+            "updatedAt": "2023-11-20T12:10:00Z"
+        },
+        {
+            "id": 3,
+            "name": "Tomato",
+            "price": 0.8,
+            "unitPerPrice": 1,
+            "unit": "kg",
+            "quantity": 40,
+            "createdAt": "2023-11-20T12:15:00Z",
+            "updatedAt": "2023-11-20T12:15:00Z"
+        },
+        {
+            "id": 4,
+            "name": "Spinach",
+            "price": 1.2,
+            "unitPerPrice": 1,
+            "unit": "dozen",
+            "quantity": 20,
+            "createdAt": "2023-11-20T12:20:00Z",
+            "updatedAt": "2023-11-20T12:25:00Z"
+        },
+        {
+            "id": 5,
+            "name": "Potato",
+            "price": 1.0,
+            "unitPerPrice": 1,
+            "unit": "kg",
+            "quantity": 60,
+            "createdAt": "2023-11-20T12:30:00Z",
+            "updatedAt": "2023-11-20T12:30:00Z"
+        },
+        {
+            "id": 6,
+            "name": "Cucumber",
+            "price": 0.75,
+            "unitPerPrice": 1,
+            "unit": "unit",
+            "quantity": 25,
+            "createdAt": "2023-11-20T12:35:00Z",
+            "updatedAt": "2023-11-20T12:35:00Z"
+        },
+        {
+            "id": 7,
+            "name": "Bell Pepper",
+            "price": 1.2,
+            "unitPerPrice": 1,
+            "unit": "unit",
+            "quantity": 35,
+            "createdAt": "2023-11-20T12:40:00Z",
+            "updatedAt": "2023-11-20T12:40:00Z"
+        },
+        {
+            "id": 8,
+            "name": "Lettuce",
+            "price": 1.0,
+            "unitPerPrice": 1,
+            "unit": "head",
+            "quantity": 15,
+            "createdAt": "2023-11-20T12:45:00Z",
+            "updatedAt": "2023-11-20T12:45:00Z"
+        },
+        {
+            "id": 9,
+            "name": "Onion",
+            "price": 0.9,
+            "unitPerPrice": 1,
+            "unit": "kg",
+            "quantity": 45,
+            "createdAt": "2023-11-20T12:50:00Z",
+            "updatedAt": "2023-11-20T12:50:00Z"
+        },
+        {
+            "id": 10,
+            "name": "Zucchini",
+            "price": 1.1,
+            "unitPerPrice": 1,
+            "unit": "unit",
+            "quantity": 22,
+            "createdAt": "2023-11-20T12:55:00Z",
+            "updatedAt": "2023-11-20T12:55:00Z"
+        }
+    ]
+}
